@@ -1,3 +1,3 @@
 ## Per visionare il progetto completo
 
-Link al progetto completo: https://sidebar-tutorial.netlify.app/
+Link al progetto completo: https://sideba-and-modal-component.netlify.app/
